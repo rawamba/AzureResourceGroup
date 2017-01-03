@@ -30,7 +30,7 @@
     "vmSize": {
       "type": "string",
       "minLength": 1,
-      "defaultValue": "Standard_D2_v2",
+      "defaultValue": "Standard_D1_v2",
       "allowedValues": [
         "Basic_A0",
         "Basic_A1",
